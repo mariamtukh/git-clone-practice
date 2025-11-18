@@ -1,3 +1,3 @@
 # git-clone-practice
 Making changes
-Another change
+Other changes
